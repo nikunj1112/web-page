@@ -1,0 +1,617 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.header
+{
+    height: 70px;
+    width: 100%;
+    background-color: red;
+    position: fixed;
+   
+}
+.logo img
+{
+    height: 50px;
+    width: 40%;
+    margin-top: 10px;
+    float: left;
+   
+}
+.navbar
+{
+    height: 70px;
+    width: 60%;
+    float: left;
+
+}
+ul
+{
+    margin-left: 30%;
+}
+ul li
+{
+    float: left;
+    list-style: none;
+    padding: 20px 30px;
+    font-size: 25px;
+    
+    
+   
+}
+ul li a
+{
+    text-decoration: none;
+    color: white;
+    padding: 5px 15px;
+
+}
+a:hover
+{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+
+}
+.section
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.8)),url("image/banner.jpg");
+    height: 650px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   
+}
+.s1
+{
+    font-size: 60px;
+    font-family: Arial;
+    color: white;
+    padding-left: 300px;
+    padding-top: 240px;
+}
+.s2 
+{
+    font-size: 15px;
+    width: 16%;
+    color: white;
+    font-family: Arial;
+    margin-left: 300px;
+    padding-top: 10px;
+    
+}
+.bone
+{
+    height: 40px;
+    padding: 10px 50px;
+    background: transparent;
+    border-radius: 10px;
+    border: 2px solid white;
+    margin-left: 300px;
+    margin-top: 10px;
+    color: white;   
+}
+.bone:hover
+{
+    background-color: white;
+    color: black;
+}
+
+.section2
+{
+    height: 200px;
+    width: 100%;
+   
+  
+}
+.sectionb1
+{
+    height: 200px;
+    width: 50%;
+    
+    float: left;
+}
+h4
+{
+    margin-left: 325px;
+    margin-top: 50px ;
+    font-size: 25px;
+
+}
+h1
+{
+    text-align: center;
+    font-size: 45px;
+    
+}
+.sectionb2
+{
+    height: 200px;
+    width: 50%;
+    float: left;   
+}
+
+.one
+{
+    text-align: justify;
+    width: 600px;
+    padding-top: 40px;
+    padding-left: 50px;
+    font-size: 20px;  
+    font-size: 25px;
+}
+.section3
+{
+    height: 550px;
+    width: 100%;
+  
+   
+    
+}
+.sectioni1
+{
+    height: 600px;
+    
+    width: 33.33%;
+    float: left;   
+    padding-left: 300px;
+    
+       
+}
+.box1 img
+{
+    height: 400px;
+    width: 100% ;
+    float: right;
+    padding-top: 20px;
+
+}
+.two
+{
+    width: 400px;
+    font-size: 15px;
+    padding-right: 50px;
+    padding-top: 430px;
+}
+.sectioni2
+{
+    height: 600px;
+    
+    width: 33.33%;
+    float: left;
+    padding-left: 150px;
+    padding-bottom: 0%;
+}
+.box2 img
+{
+    height: 400px;
+    width: 70% ;
+    padding-top: 20px;
+    
+}
+.three
+{
+    width: 400px;
+    font-size: 15px;
+    padding-right: 50px;
+    padding-top: 30px;
+}
+.sectioni3
+{
+    height: 600px;
+    
+    width: 33.33%;
+    float: left;
+    padding-right: 300px;
+}
+.box3 img
+{
+    height: 400px;
+    width: 100% ;
+    padding-top: 20px;   
+}
+
+.four
+{
+    width: 400px;
+    font-size: 15px;
+    padding-right: 50px;
+    padding-top: 30px;
+}
+.article
+{
+    width: 100%;
+    height: 600px;
+    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.9)),url("image/banner\ 2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.a1
+{
+    font-size: 50px;
+    font-family: Arial;
+    color: white;
+    width: 100%;
+    padding-top: 170px;
+    padding-left: 60%;
+}
+.a2
+{
+    font-size: 15px;
+    width: 79%;
+    color: white;
+    font-family: Arial;
+    padding-left: 60%;
+    padding-top: 10px;
+    
+   
+   
+}
+.btwo
+{
+    height: 40px;
+    padding: 10px 50px;
+    background: transparent;
+    border-radius: 10px ;
+    border: 2px solid white;
+    color: white;
+    margin-left: 60%;
+    margin-top: 15px;
+    
+}
+.btwo:hover
+{
+    background-color: white;
+    color: black;
+}
+.article2
+{
+    height: 200px;
+    width: 100%;
+   
+}
+.a3
+{
+    color: black;
+    font-size: 15px;
+    padding-left: 300px;
+    padding-top: 70px;
+}
+.a4
+{
+    color: black;
+    font-size: 45px;
+    padding-left: 290px;
+    padding-top: 0px;
+
+}
+.article3
+{
+    height: 500px;
+    width: 100%;
+   
+}
+.box4 img
+{
+    height: 500px;
+    width: 25%;
+    background-color: aqua;
+    float: left;
+    margin-left: 6.5%;
+    border-radius: 10px;
+    
+}
+.box5 img
+{
+     height: 500px;
+    width: 25%;
+    background-color: blue;
+    float: left;
+    margin-left: 6.5%;
+    border-radius: 10px;
+}
+.box6 img
+{
+     height: 500px;
+    width: 25%;
+    background-color: pink;
+    float: left;
+    margin-left: 6.5%;
+    border-radius: 10px;
+}
+.article4
+{
+    height: 50px;
+    width: 100%;
+    
+}
+.a5
+{
+    width: 25%;
+    font-size: 25px;
+    color: black;
+    float: left;
+    margin-left: 6%;
+    text-align: center;
+    line-height: 50px;
+}
+.a6
+{
+    width: 25%;
+    font-size: 25px;
+    color: black;
+    float: left;
+    margin-left: 7%;
+    text-align: center;
+    line-height: 50px;
+}
+.a7
+{
+    width: 25%;
+    font-size: 25px;
+    color: black;
+    float: left;
+    margin-left: 7%;
+    text-align: center;
+    line-height: 50px;
+}
+
+.article5
+{
+    height: 50px;
+    width: 100%;
+    
+}
+.a8
+{
+    width: 25%;
+    font-size: 17px;
+    color: black;
+    float: left;
+    text-align: center;
+    margin-left: 5.5%;
+  
+
+    
+}
+.a9
+{
+    width: 25%;
+    font-size: 17px;
+    color: black;
+    float: left;
+    text-align: center;
+    margin-left: 7%;
+    
+    
+}
+.a10
+{
+    width: 25%;
+    font-size: 17px;
+    color: black;
+    float: left;
+    text-align: center;
+    margin-left: 7.5%;    
+}
+strike
+{
+    color: red;
+}
+.article6
+{
+    height: 50px;
+    width: 100%;
+    
+    
+}
+.n1
+{
+    width: 25%;
+    height: 40px;
+   float: left;
+   text-align: center;
+
+}
+.bfour
+{
+  padding: 10px 35px;
+  background-color: crimson;
+  color: white;
+  border-radius: 5px;
+  font-size: 18px;
+  border: 0px;
+  margin-left: 50%;
+  font-family: 'Times New Roman'; 
+  
+
+    
+}
+.n2
+{
+    width: 25%;
+    height: 40px;
+   float: left;
+   text-align: center;
+
+}
+.bfive
+{
+    padding: 10px 35px;
+  background-color: crimson;
+  color: white;
+  border-radius: 5px;
+  font-size: 18px;
+  border: 0px;
+  margin-left: 90%;
+  font-family: 'Times New Roman'; 
+ 
+    
+}
+.n3
+{
+    width: 25%;
+    height: 40px;
+   float: left;
+   text-align: center;
+
+}
+
+.bsix
+{
+   padding: 10px 35px;
+  background-color: crimson;
+  color: white;
+  border-radius: 5px;
+  font-size: 18px;
+  border: 0px;
+  margin-left: 120%;  
+  font-family: 'Times New Roman'; 
+}
+.bfour:hover
+{
+    background-color: black;
+}
+.bfive:hover
+{
+    background-color: black;
+}
+.bsix:hover
+{
+    background-color: black;
+}
+.article7
+{
+    width: 100%;
+    height: 100px;
+    
+}
+.n4
+{
+    
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    font-size: 18px;
+    border: 0px;
+    margin-left: 45.8%;  
+    margin-top: 50px;
+    font-family: 'Times New Roman'; 
+    padding: 10px 30px;
+}
+.n4:hover
+{
+    background-color: crimson;
+}
+.article8
+{
+    width: 100%;
+    height: 650px;
+    padding-top: 60px;
+}
+.box7
+{
+    width: 50%;
+    height: 500px;
+    background-color: black;
+    margin-left: 25.9%;
+    
+    
+}
+
+
+.five
+{
+   color: white; 
+   font-size: 60px;
+   text-align: justify;
+   text-align: center;
+   padding-left: 20%;
+}
+.six
+{
+    color: white; 
+    font-size: 20px;
+    width: 55%;
+    text-align: justify;
+    
+    margin-left: 35%;
+}
+.seven
+{
+    color: white; 
+    font-size: 20px;
+    width: 55%;
+    text-align: justify;
+    
+    margin-left: 35%;
+}
+.eight
+{
+    color: white; 
+    font-size: 20px;
+    width: 55%;
+    text-align: justify;
+    margin-left: 35%;
+    
+
+}
+.nine
+{
+    color: white; 
+    font-size: 20px;
+    width: 55%;
+    text-align: justify;
+    margin-left: 35%;
+   
+   
+
+}
+.ten
+{
+    color: white; 
+    font-size: 20px;
+    width: 55%;
+    text-align: justify;
+    margin-left: 35%;  
+
+}
+
+
+
+
+
+
+
+
+
+
+.footer
+{
+    height: 14 0px;
+    width: 100%;
+    background-color: black;
+}
+.f1 img
+{
+    height: 50px;
+    width: 40%;
+    margin-top: 50px;
+}
+.f2
+{
+    height: 20px;
+    width: 15%;
+    color: white;
+    margin-top: 30px;
+    margin-left: 48%;
+
+}
+a
+{
+    color: red;
+}
